@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki1582)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki1582&layout=compact)](https://github.com/yuki1582/github-readme-stats)
 <!--
 **yuki1582/yuki1582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
