@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki1582&theme=vue-dark&show_icons=true)](https://github.com/yuki1582/github-readme-stats)
 
+![Yuki's github stats](https://github-readme-stats.vercel.app/api?username=yuki1582&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yuki1582/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki1582&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/yuki1582/github-readme-stats)
 <!--
 **yuki1582/yuki1582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
